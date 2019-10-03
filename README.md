@@ -120,7 +120,7 @@ Task 3 |   6
 2 commits minimum / member | 2
 **Total**|**30**
 
-- **Documents that fail to knit will receive a 0**.
+- *Documents that fail to knit will receive a 0*.
 
 
 
