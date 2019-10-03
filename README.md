@@ -1,6 +1,6 @@
 # STA 523 :: Homework 4
 
-[![wercker status](https://app.wercker.com/status/9d473f3416d04b34d5808a618ad8e8f5/s/master "wercker status")](https://app.wercker.com/project/byKey/9d473f3416d04b34d5808a618ad8e8f5)
+wercker-badge-here
 
 ## Introduction
 
@@ -120,4 +120,9 @@ Task 3 |   6
 2 commits minimum / member | 2
 **Total**|**30**
 
-- *Documents that fail to knit will receive a 0*.
+- **Documents that fail to knit will receive a 0**.
+
+
+
+
+
